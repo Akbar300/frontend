@@ -1,4 +1,3 @@
-// loginButton.addEventListener('click', function() {
 function login() {
   const usernameInput = document.getElementById("username");
   const passwordInput = document.getElementById("password");
