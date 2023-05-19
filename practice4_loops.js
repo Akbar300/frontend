@@ -37,4 +37,6 @@ for (let each of names  ){
 }
 
 console.log("----------"); // sit back and relax 
-names.forEach( each => console.log(each) ); 
+names.forEach(each => console.log(each)); 
+
+

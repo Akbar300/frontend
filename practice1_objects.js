@@ -1,6 +1,6 @@
 // Arrays :
 
-let scores = [99, 67, 59, 77, 100];
+let scores = [99, 67, 12, 77, 100];
 console.log(scores);
 // get the first item in array
 console.log(scores[0]); //99

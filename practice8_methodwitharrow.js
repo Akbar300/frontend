@@ -13,7 +13,7 @@ const print2 = () => console.log('Hello World');
 //     console.log('Hello user ' + name);
 // }
 
-const sayHelloTo = (name) => console.log('Hello user ' + name);
+const sayHelloTo = name => console.log('Hello user ' + name);
 
 
 // const addNumbers = (num1, num2) => {
