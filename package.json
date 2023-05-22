@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Akbar300/frontend/issues"
   },
-  "homepage": "https://github.com/Akbar300/frontend#readme"
+  "homepage": "https://github.com/Akbar300/frontend#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
 }

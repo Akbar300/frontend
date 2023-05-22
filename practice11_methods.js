@@ -11,6 +11,6 @@ export function sayHelloTo(name) {
 }
 
 // create a function that accept 2 numbers 
-function addNumbers(num1, num2) {
+export function addNumbers(num1, num2) {
     return num1 + num2; 
 }
