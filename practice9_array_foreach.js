@@ -11,6 +11,8 @@ let names = ["Clark", "Bruce", "Barry", "Diana", "John"];
 
 names.forEach(stuff => console.log(stuff)); 
 
+names.forEach(stuff =>  console.log(stuff)  ); 
+
 
 names.push("Snow");
 
