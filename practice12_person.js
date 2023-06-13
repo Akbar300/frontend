@@ -1,6 +1,6 @@
 export default class Person{
     // this is how we create field|property
-    firstName; 
+    firstName;
     lastName; 
     // constructor 
     constructor(firstName, lastName) {
